@@ -58,7 +58,7 @@ body {
     width: 90%; /* Ancho del 80% */
     height: auto; /* Ajusta la altura según el contenido */
     background-color: rgb(233, 225, 225); /* Fondo blanco para el contenido */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para el contenedor */
+    box-shadow: 0 0 10px rgb(0, 0, 0); /* Sombra para el contenedor */
     border-radius: 10px;
 }
 .activo{
